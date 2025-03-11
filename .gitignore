@@ -1,0 +1,10 @@
+# Игнорируем файлы с приватными данными
+.env
+blocked_users.txt
+users.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
